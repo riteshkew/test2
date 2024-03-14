@@ -1,0 +1,78 @@
+{
+    "boxShadow": "none",
+    "mobileBottomRow": 133,
+    "widgetName": "TreeSelect1",
+    "displayName": "TreeSelect",
+    "iconSVG": "/static/media/icon.a7b19dc8b31d68fcff57f1d2c0084a18.svg",
+    "labelText": "Label",
+    "searchTags": [
+        "dropdown",
+        "singleselecttree"
+    ],
+    "topRow": 126,
+    "bottomRow": 133,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "SINGLE_SELECT_TREE_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 52,
+    "defaultOptionValue": "BLUE",
+    "animateLoading": true,
+    "parentColumnSpace": 11.78125,
+    "leftColumn": 32,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"}
+    ],
+    "labelPosition": "Top",
+    "options": [
+        {
+            "children": [
+                {
+                    "label": "Dark Blue",
+                    "value": "DARK BLUE"
+                },
+                {
+                    "label": "Light Blue",
+                    "value": "LIGHT BLUE"
+                }
+            ],
+            "label": "Blue",
+            "value": "BLUE"
+        },
+        {
+            "label": "Green",
+            "value": "GREEN"
+        },
+        {
+            "label": "Red",
+            "value": "RED"
+        }
+    ],
+    "placeholderText": "Select option",
+    "isDisabled": false,
+    "key": "dkaa8wfifo",
+    "labelTextSize": "0.875rem",
+    "isRequired": false,
+    "isDeprecated": false,
+    "rightColumn": 52,
+    "dynamicHeight": "FIXED",
+    "widgetId": "klvexocefe",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "expandAll": false,
+    "parentId": "0",
+    "tags": ["Select"],
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 126,
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 32,
+    "maxDynamicHeight": 9000,
+    "allowClear": false,
+    "minDynamicHeight": 4
+}

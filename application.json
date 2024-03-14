@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "id": "mock_api",
+      "isDefault": true
+    },
+    {
+      "id": "Curl",
+      "isDefault": false
+    },
+    {
+      "id": "Postgres",
+      "isDefault": false
+    },
+    {
+      "id": "Mongo",
+      "isDefault": false
+    },
+    {
+      "id": "mysql",
+      "isDefault": false
+    },
+    {
+      "id": "firstore",
+      "isDefault": false
+    },
+    {
+      "id": "S3",
+      "isDefault": false
+    },
+    {
+      "id": "snowflake",
+      "isDefault": false
+    },
+    {
+      "id": "gsheet",
+      "isDefault": false
+    },
+    {
+      "id": "All widgets page",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#F5D1D1",
+  "icon": "bus",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
